@@ -691,14 +691,14 @@
     {
       "symbol": "MISSIONS_UI->FAILED",
       "original": "Failed",
-      "translation": "Не вдалося",
+      "translation": "Невдало",
       "priority": 0,
       "reviewed": false
     },
     {
       "symbol": "MISSIONS_UI->COMPLETE",
       "original": "Complete",
-      "translation": "Повний",
+      "translation": "Виконано",
       "priority": 0,
       "reviewed": false
     },
